@@ -1,5 +1,5 @@
 # rust-guessing-game
-Learn Rust by making a number guessing game from the Rust book! How exciting.
+Learn Rust by making a number guessing game [from the Rust book](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)! How exciting.
 
 ## Prerequisites
 - Rust. Install the toolchain with [rustup](https://rustup.rs).
